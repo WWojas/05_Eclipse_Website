@@ -1,0 +1,41 @@
+
+
+.section_5 {
+  background-image: url('../images/Layer 4.png');
+  background-size: cover;
+  background-position: 50% 35%;
+  height:100vh;
+
+  h1, p {
+    color: white;
+  }
+
+  .cta {
+   height: 100vh;
+    align-self: center;
+  }
+
+  .cta_box {
+    display: flex;
+    align-content: center;
+    align-self: center;
+    margin-right: 20px;
+
+
+
+  }
+
+  .cta_desc {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    h1 {
+      font-size: 6vh;
+      font-weight: bold;
+      margin-top: 40px;
+    }
+
+  }
+
+}

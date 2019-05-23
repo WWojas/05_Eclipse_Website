@@ -1,0 +1,28 @@
+@import "Section_1.scss";
+@import "Section_2.scss";
+@import "Section_3.scss";
+@import "Section_4.scss";
+@import "Section_5.scss";
+@import "Section_6.scss";
+
+h1 {
+  text-transform: uppercase;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1150px;
+  margin: 0 auto;
+  height: 70%;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.flex {
+  display: flex;
+}

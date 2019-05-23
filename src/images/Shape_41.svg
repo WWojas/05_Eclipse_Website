@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43 43" width="43" height="43">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Home">
+		<g id="Highlights">
+			<g id="01">
+				<path id="Shape 41" class="shp0" d="M34.12,15.75l7.88,-7.56l-7.88,-8.19zM23.63,10.5h10.5v-5.25h-10.5c-2.9,0 -5.25,2.35 -5.25,5.25v10.5l5.25,-5.25zM7.87,26.25l-7.87,7.56l7.87,8.19zM23.63,31.5v-10.5l-5.25,5.25v5.25h-10.5v5.25h10.5c2.9,0 5.25,-2.35 5.25,-5.25z" />
+			</g>
+		</g>
+	</g>
+</svg>

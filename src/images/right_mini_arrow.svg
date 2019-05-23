@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" width="17" height="17">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Home">
+		<g id="Form">
+			<g id="Button">
+				<path id="Shape 39" class="shp0" d="M1 9C1 4.59 4.59 1 9 1C13.41 1 17 4.59 17 9C17 13.41 13.41 17 9 17C4.59 17 1 13.41 1 9ZM15 9C15 5.69 12.31 3 9 3C5.69 3 3 5.69 3 9C3 12.31 5.69 15 9 15C12.31 15 15 12.31 15 9ZM13 9L9 5L9 8L6 8L6 10L9 10L9 13L13 9Z" />
+			</g>
+		</g>
+	</g>
+</svg>

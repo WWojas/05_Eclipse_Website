@@ -1,0 +1,37 @@
+
+.section_2 {
+  position: relative;
+  background: #f2f2f2;
+}
+
+.section_2_span {
+
+  img {
+    margin: 0 auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -10px;
+
+  }
+
+  &::before {
+    top: -40px;
+    content: '';
+    position: relative;
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 60%;
+    background: #f2f2f2;
+  }
+
+}
+
+.iphone_small img {
+  width: 30%;
+
+}
+
+

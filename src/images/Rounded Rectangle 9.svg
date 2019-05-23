@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65 61" width="65" height="61">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #28c8c6 } 
+	</style>
+	<g id="Home">
+		<g id="Form">
+			<g id="Button">
+				<path id="Rounded Rectangle 9" class="shp0" d="M0,6v49c0,2.76 2.24,5 5,5h54c2.76,0 5,-2.24 5,-5v-49c0,-2.76 -2.24,-5 -5,-5h-54c-2.76,0 -5,2.24 -5,5z" />
+			</g>
+		</g>
+	</g>
+</svg>

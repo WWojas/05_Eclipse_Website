@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 17" width="11" height="17">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Home">
+		<g id="Footer">
+			<g id="Fb">
+				<path id="Shape 39" class="shp0" d="M6.29,0c-1.74,0 -3,1.38 -3,3.08v2.92h-3.08v3h3.08v7h3.08v-7h3.16l0.63,-3h-3.79v-1.92c0,-0.34 0.6,-1.08 0.95,-1.08h2.13v-3z" />
+			</g>
+		</g>
+	</g>
+</svg>
